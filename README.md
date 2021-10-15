@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
 ## Hi there 👽
 
-I am Nurbek Pulatov Robotics and Programmer
+I am Nurbek Po'latov Robotics and Programmer
 
 - I know C ++ and Python programming languages
 - I make electronics and robots
