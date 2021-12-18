@@ -1,6 +1,7 @@
-<h2> Hey there! I'm Nurbek Po'latov. <img src="https://github.com/souvikguria98/souvikguria98/blob/master/Hi.gif" width="25"></h2>
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="300"/>
-## Hi there 👽
+<h3 align="center">
+  Welcome to Nurbek Po'latov profile!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
 I am Nurbek Po'latov Robotics and Programmer
 
