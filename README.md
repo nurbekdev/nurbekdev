@@ -31,6 +31,9 @@ I am Nurbek Po'latov Robotics and Programmer
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurbekdev&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
+<a href="https://twitter.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurbekdev&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nurbekdev/github-readme-stats)
 
 
