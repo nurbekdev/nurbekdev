@@ -50,4 +50,4 @@ I am Nurbek Po'latov Robotics and Programmer
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
   </a>
 </p>
-<a href="https://instagram.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://i.imgur.com/OXZM1L6.png"/></a>
+<a href="https://instagram.com/DenverCoder1"><img width="32px" alt="Twitter" title="Twitter" src="https://imgur.com/bbKhMmP"/></a>
