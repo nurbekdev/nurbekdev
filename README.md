@@ -28,8 +28,11 @@ I am Nurbek Po'latov Robotics and Programmer
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=nurbekdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="nurbekdev's Github Stats">
 </br>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=yoshlikmedia&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nurbekdev&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/nurbekdev/github-readme-stats)
+
+
 
   
 <h2>Connect with me</h2>
