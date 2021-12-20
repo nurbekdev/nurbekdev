@@ -39,7 +39,8 @@ I am Nurbek Po'latov Robotics and Programmer
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nurbekdev streak" src="https://github-readme-streak-stats.herokuapp.com?user=nurbekdev&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats"/>
   </a>
 </p>
-## 
+
+
 <p align="center">
   <a href="https://github.com/nurbekdev/nurbekdev">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nurbekdev streak" src="https://github-readme-stats.vercel.app/api?username=nurbekdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
@@ -47,14 +48,6 @@ I am Nurbek Po'latov Robotics and Programmer
 </p>
 
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=nurbekdev&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats)
-
-
-
-
-
-
-  
 <h2>Connect with me</h2>
 <p align="center">
   <a href="https://t.me/nurbekh2oo4">
