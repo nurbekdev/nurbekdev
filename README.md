@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=19&width=403&height=60&lines=Software+Developer%2C+Data+Science+and+AI)](https://gito.io/typing-svg"></a>
+  <a href="https://github.com/nurbekdev/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=19&width=403&height=60&lines=Software+Developer%2C+Data+Science+and+AI)](https://git.io/typing-svg"></a>
 </p>
 
 I am Nurbek Po'latov Robotics and Programmer
