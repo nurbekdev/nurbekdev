@@ -1,12 +1,14 @@
 <h3 align="center">
   Welcome to Nurbek Po'latov profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-[gitartwork](https://user-images.githubusercontent.com/88614410/159435901-97a7c10b-853e-4982-b640-400ff0e654b7.svg)
+
 
 
 <p align="center">
   <a href="https://github.com/nurbekdev/readmeda-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=%23318CF7&size=19&width=403&height=60&lines=Software+Developer%2C+Data+Science+and+AI)](https://git.io/typing-svg"></a>
 </p>
+  
+  [![jasineri/gitartwork](https://github.com/nurbekdev/n/blob/main/gitartwork.svg)](https://github.com/nurbekdev/n/)
 
 I am Nurbek Po'latov Robotics and Programmer
 
