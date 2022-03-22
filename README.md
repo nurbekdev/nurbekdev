@@ -1,7 +1,7 @@
 <h3 align="center">
   Welcome to Nurbek Po'latov profile!
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
-</h3>![gitartwork](https://user-images.githubusercontent.com/88614410/159435901-97a7c10b-853e-4982-b640-400ff0e654b7.svg)
+[gitartwork](https://user-images.githubusercontent.com/88614410/159435901-97a7c10b-853e-4982-b640-400ff0e654b7.svg)
 
 
 <p align="center">
