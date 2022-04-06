@@ -41,7 +41,8 @@ I am Nurbek Po'latov Robotics and Programmer
     </li>
   </ul>
   <br>
-  ## 🔥 Streak stats
+  
+  <h2>🔥 Streak stats</h2>
  <p align="center">
   <a href="https://github.com/nurbekdev/nurbekdev">
     <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nurbekdev streak" src="https://github-readme-streak-stats.herokuapp.com?user=nurbekdev&theme=tokyonight_duo&hide_border=true)](https://git.io/streak-stats"/>
