@@ -66,5 +66,5 @@ I am Nurbek Po'latov Robotics and Programmer
   </a>
 </p>
 
-https://github-profile-trophy.vercel.app/?username=nurbekdev&theme=dark_dimmed
+[![trophy](https://github-profile-trophy.vercel.app/?username=nurbekdev&theme=dark_dimmed)
 
