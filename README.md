@@ -9,6 +9,8 @@
 </p>
   
   [![jasineri/gitartwork](https://github.com/nurbekdev/n/blob/main/gitartwork.svg)](https://github.com/nurbekdev/n/)
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=nurbekdev&label=Profile%20views&color=0e75b6&style=flat" alt="lazizbekravshanov" /> </p>
+
 
   
   
