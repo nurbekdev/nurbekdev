@@ -46,7 +46,7 @@ I am Nurbek Po'latov Robotics and Programmer
   <br>
   
   <h2>🔥 Streak stats</h2>
----
+  ---
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nurbekdev&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurbekdev&layout=compact" />
