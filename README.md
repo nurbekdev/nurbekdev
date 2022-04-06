@@ -66,3 +66,5 @@ I am Nurbek Po'latov Robotics and Programmer
   </a>
 </p>
 
+[![trophy](https://github-profile-trophy.vercel.app/?nurbekdev=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+
