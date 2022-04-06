@@ -18,6 +18,7 @@ I am Nurbek Po'latov Robotics and Programmer
 - I make electronics and robots
 - My first job in Python was print ("Hello world") 
 - Developing my own open source projects
+  [![trophy](https://github-profile-trophy.vercel.app/?username=nurbekdev&no-bg=true)
 
 
 
@@ -66,5 +67,5 @@ I am Nurbek Po'latov Robotics and Programmer
   </a>
 </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=nurbekdev&no-bg=true)
+
 
