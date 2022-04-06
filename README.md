@@ -25,9 +25,6 @@ I am Nurbek Po'latov Robotics and Programmer
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=nurbekdev&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-
-
-
 <h2>Latest Blog Posts</h2>
   <ul>
     <li>
@@ -44,23 +41,12 @@ I am Nurbek Po'latov Robotics and Programmer
     </li>
   </ul>
   <br>
-  
   <h2>🔥 Streak stats</h2>
- 
  ---
 <div>
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=nurbekdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nurbekdev&layout=compact" />
 </div>
-
-
-<p align="center">
-  <a href="https://github.com/nurbekdev/nurbekdev">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="nurbekdev streak" src="https://github-readme-stats.vercel.app/api?username=nurbekdev&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40"/>
-  </a>
-</p>
-
-
 <h2>Connect with me</h2>
 <p align="center">
   <a href="https://t.me/nurbekdev">
