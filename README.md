@@ -15,7 +15,7 @@
   
   
 I am Nurbek Po'latov Robotics and Programmer
-- 🏴‍☠️ I am based in the USA.
+
 - I know C ++ and Python programming languages
 - I make electronics and robots
 - My first job in Python was print ("Hello world") 
