@@ -51,13 +51,17 @@ I am Nurbek Po'latov Robotics and Programmer
 <h2>Connect with me</h2>
 <p align="center">
   <a href="https://t.me/nurbekdev">
-    <img src="https://levashove.ru/wp-content/uploads/2019/09/Telegram-logo.jpg" height=25>
+    <img src="http://www.vectorico.com/wp-content/uploads/2019/02/Telegram-Icon-300x300.png" height=40>
   </a>
   <a href="https://www.facebook.com/nurbekdev">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Facebook.svg/2560px-Facebook.svg.png" height=25>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/2021_Facebook_icon.svg/2048px-2021_Facebook_icon.svg.png" height=40>
   </a>
   <a href="https://www.instagram.com/nurbekdev?r=nametag">
-    <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=25>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Instagram-Icon.png/800px-Instagram-Icon.png" height=40>
+  </a>
+   <a href="https://www.linkedin.com/in/nurbek-po%CA%BBlatov-396ba6236/">
+    <img src="https://cdn.icon-icons.com/icons2/2428/PNG/512/linkedin_black_logo_icon_147114.png" height=40>!
+
   </a>
 </p>
 
