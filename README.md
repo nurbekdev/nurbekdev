@@ -32,6 +32,8 @@ I am Nurbek Po'latov Robotics and Programmer
       Pythonda qilgan vazifalarim✨</a>
     </li>
      <li>
+  
+  <script src="https://embed.github.com/view/3d/<nurbekdev>/<repo>/<ref>/<path_to_file>"></script>
       <a href=https://github.com/nurbekdev/snake-games-python/>
       Snake games Python</a>
     </li>
