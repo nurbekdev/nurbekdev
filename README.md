@@ -25,24 +25,7 @@ I am Nurbek Po'latov Robotics and Programmer
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=nurbekdev&column=8&theme=gruvbox&no-frame=true"/>
 </a>
 
-<h2>Latest Blog Posts</h2>
-  <ul>
-    <li>
-      <a href=https://github.com/nurbekdev/pythonda-vazifalar/>
-      Pythonda qilgan vazifalarim✨</a>
-    </li>
-     <li>
-  
-      <a href=https://github.com/nurbekdev/snake-games-python/>
-      Snake games Python</a>
-    </li>
-    <li>
-      <a href=https://github.com/nurbekdev/arduino-uchun-kerakli-Libraries/>
-      Arduino uchum kerakli Kutubxonalar</a>
-    </li>
-  </ul>
-  <br>
-  <h2>🔥 Streak stats</h2>
+
   
 ---
 <div>
