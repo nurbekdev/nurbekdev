@@ -51,7 +51,7 @@ I am Nurbek Po'latov Robotics and Programmer
   
   
   <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="saidovsanjar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=saidovsanjar&bg_color=#04FF05&color=#07FF2C&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="saidovsanjar's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=saidovsanjar&bg_color=#04FF05&color=#04FF05&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
 
