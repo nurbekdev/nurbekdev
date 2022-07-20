@@ -48,7 +48,7 @@ I am Nurbek Po'latov Robotics and Programmer
 
   </a>
 </p>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurbekdev&theme=github_dark">
+  <a href="https://github.com/nurbekdev"><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nurbekdev&theme=github_dark"></a>
   
   
   [![Nurbekdev's github activity graph](https://activity-graph.herokuapp.com/graph?username=nurbekdev&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
